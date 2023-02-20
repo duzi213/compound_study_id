@@ -6,7 +6,7 @@ library(pwr)
 
 x <- getwd()
 
-
+######
 
 pwr.2p.test(h = -0.15, n = NULL, sig.level = 0.05, power = 0.8, alternative = "greater")
 
